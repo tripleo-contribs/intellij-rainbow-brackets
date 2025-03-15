@@ -1,29 +1,42 @@
-## Paid features
+## Paid features(Click to preview screenshots)
 
 <ul dir="auto">
-<li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2741">Dart Rainbow Variables support</a></li>
-<li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/discussions/2643">Support Scope Highlighting for Python/XML/HTML/Vue etc.</a></li>
-<li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2677">Jinja2 Template support</a></li>
-<li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/blob/2020.3/README.md#yaml">Highlighting indent guide-lines for YAML</a></li>
-<li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/discussions/2653">Option to adjust the effect of scope/border/restrain highlighting</a></li>
-<li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/discussions/2644">Current Block Highlighting(experimental)</a></li>
-<li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#yaml">Rainbowify YAML tags</a></li>
-<li><a href="https://user-images.githubusercontent.com/12044174/202852094-2da6945b-598e-4def-ab0c-331abdd6d3f8.png">Color generator for rainbow variables</a></li>
-<li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2526">Show and save generated colors</a></li>
-<li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/blob/2020.3/README.md#indent-highlighting">Highlighting indent guide-lines advanced options</a></li>
-<li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/blob/2020.3/README.md#python">Highlighting indent guide-lines for Python</a></li>
-<li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/blob/2020.3/README.md#pugjade">Highlighting indent guide-lines for Pug/Jade</a></li>
-<li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/blob/2020.3/README.md#advanced-options-of-color-generator">Color generator advanced options</a></li>
-<li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/blob/2020.3/README.md#customize-colors">Config up to 10 colors in config panel</a></li>
-<li>C# support(Rainbow Brackets and variables)</li>
-<li><a href='https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/186'>F# support(Rainbow Brackets and variables, requires Rider 2023.2 or above)</a></li>
-<li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/424#issuecomment-1377176193">C++ support in Rider IDE</a></li></ul>
+            <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2808">Highlighting indent guide-lines for braceless style Scala</a></li>
+            <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2762">Highlighting indent guide-lines for ReSharper C++ language engine(Clion Nova) & Rider (requires 2024.2+)</a></li>
+            <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/blob/2022.3/README.md#yaml">Highlighting indent guide-lines for YAML</a></li>
+            <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/blob/2022.3/README.md#python">Highlighting indent guide-lines for Python</a></li>
+            <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/blob/2022.3/README.md#pugjade">Highlighting indent guide-lines for Pug/Jade</a></li>
+            <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/blob/2022.3/README.md#indent-highlighting">Highlighting indent guide-lines advanced options</a></li>
+            <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2741">Dart Rainbow Variables support</a></li>
+            <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/discussions/2643">Support Scope Highlighting for Python/XML/HTML/Vue etc.</a></li>
+            <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2677">Jinja2 Template support</a></li>
+            <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/discussions/2653">Option to adjust effect of scope/border/restrain highlighting</a></li>
+            <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/discussions/2644">Current Block Highlighting</a></li>
+            <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#yaml">Rainbowify YAML tags</a></li>
+            <li><a href="https://user-images.githubusercontent.com/12044174/202852094-2da6945b-598e-4def-ab0c-331abdd6d3f8.png">Color generator for rainbow variables</a></li>
+            <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2526">Show and save generated colors</a></li>
+            <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/blob/2022.3/README.md#advanced-options-of-color-generator">Color generator advanced options</a></li>
+            <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/blob/2022.3/README.md#customize-colors">Config up to 10 colors in config panel</a></li>
+            <li>C# support(Rainbow Brackets and variables)</li>
+            <li><a href='https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/186'>F# support(Rainbow Brackets and variables, requires Rider 2023.2 or above)</a></li>
+            <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/424#issuecomment-1377176193">C++ support in Rider IDE</a></li>
+</ul>
 
 ## Screenshots
 
 Please check the latest screenshots [here](https://github.com/izhangzhihao/intellij-rainbow-brackets#screenshots).
 
 ## Change log
+
+<p dir="auto">2024.2.10</p>
+                <ul dir="auto">
+                    <li>Compatible with 2025.1 EAP</li>
+                    <li>Implemented UX suggestions provided by <a href="https://github.com/fburleigh">Frank Burleigh</a>: <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2811">Four UX improvements for Settings > Rainbow: Color panel</a> to enhance user experience</li>
+                    <li>Implemented <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2808">Indent guide-lines highlighting in braceless style Scala</a></li>
+                    <li>Fix <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2750">Some previous indent highlights remain</a></li>
+                    <li>Implemented <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2762">Indent guide-lines with ReSharper C++ language engine(Clion Nova) & Rider (requires version 2024.2+)</a></li>
+                </ul>
+                <br/>
 
 
 <p>2024.2.9</p>
