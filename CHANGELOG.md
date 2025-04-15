@@ -28,15 +28,18 @@ Please check the latest screenshots [here](https://github.com/izhangzhihao/intel
 
 ## Change log
 
-<p dir="auto">2024.2.10</p>
-                <ul dir="auto">
-                    <li>Compatible with 2025.1 EAP</li>
-                    <li>Implemented UX suggestions provided by <a href="https://github.com/fburleigh">Frank Burleigh</a>: <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2811">Four UX improvements for Settings > Rainbow: Color panel</a> to enhance user experience</li>
-                    <li>Implemented <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2808">Indent guide-lines highlighting in braceless style Scala</a></li>
-                    <li>Fix <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2750">Some previous indent highlights remain</a></li>
-                    <li>Implemented <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2762">Indent guide-lines with ReSharper C++ language engine(Clion Nova) & Rider (requires version 2024.2+)</a></li>
-                </ul>
-                <br/>
+<p>2024.2.10</p>
+        <ul>
+            <li>Compatible with 2025.1</li>
+            <li>Implemented UX suggestions provided by <a href="https://github.com/fburleigh">Frank Burleigh</a>: <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2811">Four UX improvements for Settings > Rainbow: Color panel</a> to enhance user experience</li>
+            <li>[premium] Implemented <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2808">Indent guide-lines highlighting in braceless style Scala</a></li>
+            <li>Fix <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2750">Some previous indent highlights remain</a></li>
+            <li>[premium] Implemented <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2762">Indent guide-lines with ReSharper C++ language engine(Clion Nova) & Rider (requires version 2024.2+)</a></li>
+            <li>Increased the large file threshold to 5000; files exceeding this limit will not be highlighted by default unless the option is manually disabled.</li>
+            <li>Indent guide-lines highlighting should respect to the large file threshold</li>
+            <li>Enhanced indent guide-lines highlighting to support more HTML template files(eg, Django Template Language and others)</li>
+        </ul>
+        <br/>
 
 
 <p>2024.2.9</p>
