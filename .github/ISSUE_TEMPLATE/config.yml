@@ -6,15 +6,15 @@ contact_links:
   - name: License issue
     url: https://github.com/izhangzhihao/intellij-rainbow-brackets/discussions/2630
     about: Check your license status before you create a new issue
-  - name: Issues about Code With Me
-    url: https://github.com/izhangzhihao/intellij-rainbow-brackets/discussions/2656
-    about: you don't need to install Rainbow Brackets in the Code With Me client side, it works once the server side has this plugin
-  - name: Issues about JetBrains Client/IntelliJ Remote Development
-    url: https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2584
-    about: JetBrains Client/IntelliJ Remote Development not supported
   - name: Issues about Rainbow Variables/Semantic Highlighting
     url: https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2760#issuecomment-2347960008
     about: Please upgrade your IDE to the latest before your raise a issue about Rainbow Variables/Semantic Highlighting
-  - name: Indent guide-lines with Clion Nova
-    url: https://github.com/izhangzhihao/intellij-rainbow-brackets/discussions/2656
-    about: Current workaround is disable the option `ReSharper C++ language engine`
+  - name: License issue about JetBrains Client/ IntelliJ Remote Development/ Code With Me/ JetBrains Gateway
+    url: https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2818
+    about: the JetBrains Client/Gateway does not support paid plugins for now, so only free features works
+  - name: Rainbow Variables issue about JetBrains Client/ IntelliJ Remote Development/ Code With Me/ JetBrains Gateway
+    url: https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2584
+    about: JetBrains Client/IntelliJ Remote Development not supported
+  - name: com.intellij.modules.xml not found(JetBrains Client/ IntelliJ Remote Development/ Code With Me/ JetBrains Gateway)
+    url: https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2817
+    about: you don't need to install Rainbow Brackets in the Code With Me client side, it works once the server side has this plugin
