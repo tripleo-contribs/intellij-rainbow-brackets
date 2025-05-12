@@ -1,32 +1,173 @@
 ## Paid features(Click to preview screenshots)
 
+<table border="1" cellpadding="5" cellspacing="0" >  
+    <thead>
+      <tr>
+        <th>Language</th>
+        <th>Rainbowify Brackets</th>
+        <th>Indent Guidelines Highlighting</br><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#indent-highlighting">(Free + Premium options)</a></th>  
+        <th>Scope Highlighting</br>(<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#scope-highlighting">Free</a> + <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/discussions/2644">Premium options)</a></th>  
+        <th><a href="https://www.youtube.com/watch?v=8WRH59PQ5Dk">Rainbowify Variables</a></th>
+        <th>Language-Specific Features</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Java</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#java">✅</a></td>
+        <td>✅</td>
+        <td>✅</td>
+        <td>✅</td>
+        <td></td>
+      </tr>  
+      <tr>  
+        <td>Scala</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#scala">✅</a></td>
+        <td>✅ (<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2808">Premium for braceless style</a>)</td>
+        <td>✅</td>
+        <td>✅</td>
+        <td></td>
+      </tr>  
+      <tr>  
+        <td>Kotlin</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#kotlin">✅</a></td>
+        <td>✅</td>
+        <td>✅</td>
+        <td>✅</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#kotlin-function-literal-braces-and-arrow">Function literal braces and arrow highlighting</a></td>
+      </tr>  
+      <tr>  
+        <td>Python</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#python">✅</a></td>
+        <td>✅ (<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#python">Premium</a>)</td>
+        <td>✅ (<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/discussions/2643">Premium</a>)</td>
+        <td>✅</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#python">Keyword highlighting</a></td>
+      </tr>  
+      <tr>  
+        <td>JavaScript/TypeScript</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#javascript--typescript">✅</a></td>
+        <td>✅</td>
+        <td>✅</td>
+        <td>✅</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#javascript--typescript">JSX support</a></td>
+      </tr>  
+      <tr>  
+        <td>HTML/XML</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#htmlxml">✅</a></td>
+        <td>✅</td>
+        <td>✅ (<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2712">Premium</a>)</td>
+        <td>✅ <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#htmlxml">Tag name highlighting</a></td>
+        <td></td>
+      </tr>  
+      <tr>  
+        <td>C#</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#c">✅</a> Premium</td>
+        <td>✅</td>
+        <td>✅ Premium</td>
+        <td>✅ (<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2570">Premium</a>)</td>
+        <td>Support .shader .cginc .hlsl .cshtml etc.</td>
+      </tr>  
+      <tr>  
+        <td>F#</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/186">✅</a> (<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/186">Premium</a>)</td>
+        <td>✅ Premium</td>
+        <td>-</td>
+        <td>✅ (<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/186">Premium</a>)</td>
+        <td></td>
+      </tr>  
+      <tr>  
+        <td>C++</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/424#issuecomment-1377176193">✅</a> (<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/424#issuecomment-1377176193">Premium in Rider</a>)</td>
+        <td>✅ (<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2762">Premium for CLion Nova</a>)</td>
+        <td>✅ (CLion Classic only)</td>
+        <td>✅</td>
+        <td></td>
+      </tr>  
+      <tr>  
+        <td>YAML</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#yaml">✅</a></td>
+        <td>✅ (<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#yaml">Premium</a>)</td>
+        <td>✅</td>
+        <td>✅ <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#yaml">Tag name highlighting</a></td>
+        <td></td>
+      </tr>
+      <tr> 
+        <td>Jinja2</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2677">✅</a> (<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2677">Premium</a>)</td>
+        <td>✅ Premium</td>
+        <td>-</td>
+        <td>-</td>
+        <td></td>
+      </tr>  
+      <tr>  
+        <td>Vue.js</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#htmlxml">✅</a></td>
+        <td>✅</td>
+        <td>✅ (<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2712">Premium</a>)</td>
+        <td>-</td>
+        <td></td>
+      </tr>  
+      <tr>  
+        <td>Pug/Jade</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#pugjade">✅</a></td>
+        <td>✅ (<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#pugjade">Premium</a>)</td>
+        <td>-</td>
+        <td>-</td>
+        <td></td>
+      </tr>  
+      <tr>  
+        <td>Dart</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#dart">✅</a></td>
+        <td>✅</td>
+        <td>✅</td>
+        <td><a href="https://www.youtube.com/watch?v=8WRH59PQ5Dk">✅</a> (<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2741">Premium</a>)</td>
+        <td></td>
+      </tr>  
+      <tr>
+        <td>Rust</td>
+        <td>✅</td>
+        <td>✅</td>
+        <td>✅</td>
+        <td>✅</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Go</td>
+        <td>✅</td>
+        <td>✅</td>
+        <td>✅</td>
+        <td>✅</td>
+        <td></td>
+      </tr>
+    </tbody>  
+</table>
+
+Other Premium features:
+
 <ul dir="auto">
-            <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2808">Highlighting indent guide-lines for braceless style Scala</a></li>
-            <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2762">Highlighting indent guide-lines for ReSharper C++ language engine(Clion Nova) & Rider (requires 2024.2+)</a></li>
-            <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/blob/2022.3/README.md#yaml">Highlighting indent guide-lines for YAML</a></li>
-            <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/blob/2022.3/README.md#python">Highlighting indent guide-lines for Python</a></li>
-            <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/blob/2022.3/README.md#pugjade">Highlighting indent guide-lines for Pug/Jade</a></li>
-            <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/blob/2022.3/README.md#indent-highlighting">Highlighting indent guide-lines advanced options</a></li>
-            <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2741">Dart Rainbow Variables support</a></li>
-            <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/discussions/2643">Support Scope Highlighting for Python/XML/HTML/Vue etc.</a></li>
-            <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2677">Jinja2 Template support</a></li>
-            <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/discussions/2653">Option to adjust effect of scope/border/restrain highlighting</a></li>
-            <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/discussions/2644">Current Block Highlighting</a></li>
-            <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#yaml">Rainbowify YAML tags</a></li>
-            <li><a href="https://user-images.githubusercontent.com/12044174/202852094-2da6945b-598e-4def-ab0c-331abdd6d3f8.png">Color generator for rainbow variables</a></li>
-            <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2526">Show and save generated colors</a></li>
-            <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/blob/2022.3/README.md#advanced-options-of-color-generator">Color generator advanced options</a></li>
-            <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/blob/2022.3/README.md#customize-colors">Config up to 10 colors in config panel</a></li>
-            <li>C# support(Rainbow Brackets and variables)</li>
-            <li><a href='https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/186'>F# support(Rainbow Brackets and variables, requires Rider 2023.2 or above)</a></li>
-            <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/424#issuecomment-1377176193">C++ support in Rider IDE</a></li>
+    <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#use-the-color-generator">Color generator advanced options</a></li>
+    <li><a href="https://user-images.githubusercontent.com/12044174/202852094-2da6945b-598e-4def-ab0c-331abdd6d3f8.png">Color generator for rainbow variables</a></li>
+    <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2526">Show and save generated colors</a></li>
+    <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#customize-colors">Config up to 10 colors in config panel</a></li>
 </ul>
+
+<small>Other supported languages: Haskell, Agda, Erlang, Groovy, Ruby, Elixir, Objective-C, PHP, SQL, Apex language, Bash, C# Razor Pages, GLSL (the OpenGL Shading Language), Go Template, Solidity, MDX and more.</small>
 
 ## Screenshots
 
 Please check the latest screenshots [here](https://github.com/izhangzhihao/intellij-rainbow-brackets#screenshots).
 
 ## Change log
+
+<p dir="auto">2024.2.11</p>
+                <ul dir="auto">
+                    <li>[premium] Implemented Indent guide-lines highlighting for F#</li>
+                    <li>[premium] Implemented Indent guide-lines highlighting for Jinja2</li>
+                    <li>Make indent guide-lines highlighting respect to Settings > Rainbow Brackets > Disable When > blocklist</li>
+                    <li>Enhance user experience during license activation</li>
+                </ul>
+                <br/>
 
 <p>2024.2.10</p>
         <ul>
