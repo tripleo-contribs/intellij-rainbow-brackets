@@ -152,13 +152,24 @@ Other Premium features:
     <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#customize-colors">Config up to 10 colors in config panel</a></li>
 </ul>
 
-<small>Other supported languages: Haskell, Agda, Erlang, Groovy, Ruby, Elixir, Objective-C, PHP, SQL, Apex language, Bash, C# Razor Pages, GLSL (the OpenGL Shading Language), Go Template, Solidity, MDX and more.</small>
+<small>Other supported languages: Haskell, Agda, Erlang, Groovy, Ruby, Elixir, Objective-C, PHP, SQL, Apex language, Bash, C# Razor Pages, GLSL (the OpenGL Shading Language), Go Template, Solidity, MDX, FreeMarker and more.</small>
 
 ## Screenshots
 
 Please check the latest screenshots [here](https://github.com/izhangzhihao/intellij-rainbow-brackets#screenshots).
 
 ## Change log
+
+<p>2024.2.12</p>
+        <ul>
+            <li>Compatible with 2025.2</li>
+            <li>Feature: <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2825">Live-update the editor if config changed</a></li>
+            <li>[premium] Feature: <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2826">Set Restrain Highlighting foreground/background effect color</a></li>
+            <li>Fix: <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2827">Respect "Execution Point" color when debugging</a></li>
+            <li>[premium] Feature: <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2698">Apache FreeMarker Template Language Support</a></li>
+            <li>Other bug fix for the setting page</li>
+        </ul>
+        <br/>
 
 <p dir="auto">2024.2.11</p>
                 <ul dir="auto">

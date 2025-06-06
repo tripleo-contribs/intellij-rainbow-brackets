@@ -10,7 +10,9 @@
 <p align="center">
 <a href="https://plugins.jetbrains.com/plugin/10080-rainbow-brackets"><img src="https://img.shields.io/jetbrains/plugin/r/stars/10080?style=flat-square"></a>
 <a href="https://plugins.jetbrains.com/embeddable/install/10080"><img src="https://img.shields.io/jetbrains/plugin/d/10080-rainbow-brackets.svg?style=flat-square"></a>
-<a href="https://plugins.jetbrains.com/plugin/10080-rainbow-brackets"><img src="https://img.shields.io/jetbrains/plugin/v/10080-rainbow-brackets.svg?style=flat-square"></a>
+<a href="https://plugins.jetbrains.com/plugin/10080-rainbow-brackets"><img src="https://img.shields.io/jetbrains/plugin/v/10080-rainbow-brackets.svg?style=flat-square&label=IntelliJ-based IDE"></a>
+<a href="https://plugins.jetbrains.com/plugin/23759-rainbow-brackets-for-fleet"><img src="https://img.shields.io/jetbrains/plugin/v/23759?style=flat-square&label=Fleet"></a>
+
 </p>
 
 <br>
@@ -50,7 +52,7 @@ IntelliJ IDEA(Ultimate/Community/Educational), PhpStorm, WebStorm, PyCharm(Profe
 
 ## Supported languages
 
-Java, Scala, Clojure, Kotlin, Python, Haskell, Agda, Rust, JavaScript, TypeScript, Erlang, Go, Groovy, Ruby, Elixir, Objective-C, PHP, HTML, XML, SQL, Apex language, C#, F#, Dart, Pug/Jade, Bash, Vue.js, C# Razor Pages, GLSL(the OpenGL Shading Language), Go Template, C++, C, Solidity, Jinja2, Clang, CPP, C...
+Java, Scala, Clojure, Kotlin, Python, Haskell, Agda, Rust, JavaScript, TypeScript, Erlang, Go, Groovy, Ruby, Elixir, Objective-C, PHP, HTML, XML, SQL, Apex language, C#, F#, Dart, Pug/Jade, Bash, Vue.js, C# Razor Pages, GLSL(the OpenGL Shading Language), Go Template, C++, C, Solidity, Jinja2, Clang, CPP, C, MDX, FreeMarker...
 
 **NOTE: Please note that some features require the paid version for full support.**
 
