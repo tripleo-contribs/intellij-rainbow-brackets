@@ -1,11 +1,11 @@
-## Paid features(Click to preview screenshots)
+## Features Matrix(Click to preview screenshots)
 
-<table border="1" cellpadding="5" cellspacing="0" >  
+<table border="1" cellpadding="5" cellspacing="0" >
     <thead>
       <tr>
         <th>Language</th>
         <th>Rainbowify Brackets</th>
-        <th>Indent Guidelines Highlighting</br><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#indent-highlighting">(Free + Premium options)</a></th>  
+        <th>Indent Guidelines Highlighting</br>(<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#indent-highlighting">Free</a> + <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/380#issuecomment-1296938427">Premium options)</a></th>  
         <th>Scope Highlighting</br>(<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#scope-highlighting">Free</a> + <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/discussions/2644">Premium options)</a></th>  
         <th><a href="https://www.youtube.com/watch?v=8WRH59PQ5Dk">Rainbowify Variables</a></th>
         <th>Language-Specific Features</th>
@@ -23,7 +23,7 @@
       <tr>  
         <td>Scala</td>
         <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#scala">✅</a></td>
-        <td>✅ (<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2808">Premium for braceless style</a>)</td>
+        <td>✅ <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2808">✨Premium for braceless style</a></td>
         <td>✅</td>
         <td>✅</td>
         <td></td>
@@ -39,8 +39,8 @@
       <tr>  
         <td>Python</td>
         <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#python">✅</a></td>
-        <td>✅ (<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#python">Premium</a>)</td>
-        <td>✅ (<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/discussions/2643">Premium</a>)</td>
+        <td>✨ <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#python">Premium</a></td>
+        <td>✨ <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/discussions/2643">Premium</a></td>
         <td>✅</td>
         <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#python">Keyword highlighting</a></td>
       </tr>  
@@ -56,62 +56,70 @@
         <td>HTML/XML</td>
         <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#htmlxml">✅</a></td>
         <td>✅</td>
-        <td>✅ (<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2712">Premium</a>)</td>
+        <td>✨ <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2712">Premium</a></td>
         <td>✅ <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#htmlxml">Tag name highlighting</a></td>
         <td></td>
-      </tr>  
+      </tr>
+      <tr>  
+        <td>Vue.js</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#htmlxml">✅</a></td>
+        <td>✅</td>
+        <td>✨ <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2712">Premium</a></td>
+        <td>-</td>
+        <td></td>
+      </tr>
       <tr>  
         <td>C#</td>
-        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#c">✅</a> Premium</td>
+        <td>✨ <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#c">Premium</a></td>
         <td>✅</td>
-        <td>✅ Premium</td>
-        <td>✅ (<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2570">Premium</a>)</td>
+        <td>✨ Premium</td>
+        <td>✨ <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2570">Premium</a></td>
         <td>Support .shader .cginc .hlsl .cshtml etc.</td>
       </tr>  
       <tr>  
         <td>F#</td>
-        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/186">✅</a> (<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/186">Premium</a>)</td>
-        <td>✅ Premium</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/186">✨</a> <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/186">Premium</a></td>
+        <td>✨ Premium</td>
         <td>-</td>
-        <td>✅ (<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/186">Premium</a>)</td>
+        <td>✨ <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/186">Premium</a></td>
         <td></td>
       </tr>  
       <tr>  
-        <td>C++</td>
-        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/424#issuecomment-1377176193">✅</a> (<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/424#issuecomment-1377176193">Premium in Rider</a>)</td>
-        <td>✅ (<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2762">Premium for CLion Nova</a>)</td>
-        <td>✅ (CLion Classic only)</td>
+        <td>C++ (CLion Classic)</td>
         <td>✅</td>
+        <td>✅</td>
+        <td>✅</td>
+        <td>✅</td>
+        <td></td>
+      </tr>
+      <tr>  
+        <td>C++ (CLion Nova)</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/424#issuecomment-1377176193">✨</a> <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/424#issuecomment-1377176193">Premium in Rider</a></td>
+        <td>✨<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2762">Premium</a></td>
+        <td>✨<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2846">Premium</a></td>
+        <td>✨<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2846">Premium</a></td>
         <td></td>
       </tr>  
       <tr>  
         <td>YAML</td>
         <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#yaml">✅</a></td>
-        <td>✅ (<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#yaml">Premium</a>)</td>
+        <td>✨ <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#yaml">Premium</a></td>
         <td>✅</td>
         <td>✅ <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#yaml">Tag name highlighting</a></td>
         <td></td>
       </tr>
       <tr> 
         <td>Jinja2</td>
-        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2677">✅</a> (<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2677">Premium</a>)</td>
-        <td>✅ Premium</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2677">✨</a> <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2677">Premium</a></td>
+        <td>✨ Premium</td>
         <td>-</td>
         <td>-</td>
         <td></td>
-      </tr>  
-      <tr>  
-        <td>Vue.js</td>
-        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#htmlxml">✅</a></td>
-        <td>✅</td>
-        <td>✅ (<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2712">Premium</a>)</td>
-        <td>-</td>
-        <td></td>
-      </tr>  
+      </tr>
       <tr>  
         <td>Pug/Jade</td>
         <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#pugjade">✅</a></td>
-        <td>✅ (<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#pugjade">Premium</a>)</td>
+        <td>✨ <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#pugjade">Premium</a></td>
         <td>-</td>
         <td>-</td>
         <td></td>
@@ -121,7 +129,7 @@
         <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#dart">✅</a></td>
         <td>✅</td>
         <td>✅</td>
-        <td><a href="https://www.youtube.com/watch?v=8WRH59PQ5Dk">✅</a> (<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2741">Premium</a>)</td>
+        <td>✨ <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2741">Premium</a></td>
         <td></td>
       </tr>  
       <tr>
@@ -159,6 +167,49 @@ Other Premium features:
 Please check the latest screenshots [here](https://github.com/izhangzhihao/intellij-rainbow-brackets#screenshots).
 
 ## Change log
+
+<p dir="auto">2025.3.3</p>
+                <ul dir="auto">
+                    <li>[premium] Feature: <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2846">Scope highlighting for CLion ReSharper C++ Engine</a> (Rider and Clion Nova)</li>
+                    <li>[premium] Feature: Rainbow Brackets for ReSharper C++ Engine has been rebuilt (Rider and Clion Nova)</li>
+                    <li>[premium] Feature: Rainbow Variables for ReSharper C++ Engine (Rider and Clion Nova)</li>
+                    <li>Feature: Add localization support for Simplified Chinese/Traditional Chinese/Japanese and Korean</li>
+                    <li><strong><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/discussions/2847">
+                    Settings pages now has visual previews and handy links. They instantly show you how your adjustments will look, so you can fine-tune your setup with confidence and see exactly what you're getting.
+                    </a></strong></li>
+                </ul>
+                <br/>
+
+<p dir="auto">2025.3.2</p>
+                <ul dir="auto">
+                    <li>Compatible with 2025.2 Release Candidate</li>
+                    <li>Fix: <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/174">Colorization of If-else levels is broken</a></li>
+                    <li>Fix: <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2842">Coloring order of consequent [] should not always be backward</a></li>
+                    <li>[premium] Feature: <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2840">Ruby keywords highlighting</a></li>
+                    <li>The color generator has been rebuilt! It now uses a much more advanced model to ensure that colors are always easy to tell apart, guaranteeing high contrast and readability.</li>
+                    <li>Simplified code implementations, removed obsoleted methods, and optimized highlight performance.</li>
+                </ul>
+                <br/>
+
+<p dir="auto">2025.3.1</p>
+                <ul dir="auto">
+                    <li>Upgraded the major version number so you can get another 30-days free trial, premium features await rediscovery!</li>
+                    <li>Compatible with 2025.2 EAP</li>
+                    <li>Other bug fixes</li>
+                </ul>
+                <br/>
+
+
+<p dir="auto">2024.2.15</p>
+                <ul dir="auto">
+                    <li>Compatible with 2025.2</li>
+                    <li>Feature: <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2825">Live-update the editor if config changed</a></li>
+                    <li>[premium] Feature: <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2826">Set Restrain Highlighting foreground/background effect color</a></li>
+                    <li>Fix: <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2827">Respect "Execution Point" color when debugging</a></li>
+                    <li>[premium] Feature: <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2698">Apache FreeMarker Template Language Support</a></li>
+                    <li>Other bug fix for the setting page</li>
+                </ul>
+                <br/>
 
 <p>2024.2.12</p>
         <ul>

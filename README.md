@@ -5,14 +5,13 @@
     </a>
 </div>
 <h1 align="center">Intellij Rainbow Brackets</h1>
-<p align="center">🌈Rainbow Brackets for IntelliJ-based IDEs/Android Studio/HUAWEI DevEco Studio And <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/blob/2022.3/Fleet.md">Fleet</p>
+<p align="center">🌈Rainbow Brackets for IntelliJ-based IDEs/Android Studio/HUAWEI DevEco Studio And <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/blob/2022.3/Fleet.md">Fleet</a></p>
 
 <p align="center">
 <a href="https://plugins.jetbrains.com/plugin/10080-rainbow-brackets"><img src="https://img.shields.io/jetbrains/plugin/r/stars/10080?style=flat-square"></a>
 <a href="https://plugins.jetbrains.com/embeddable/install/10080"><img src="https://img.shields.io/jetbrains/plugin/d/10080-rainbow-brackets.svg?style=flat-square"></a>
 <a href="https://plugins.jetbrains.com/plugin/10080-rainbow-brackets"><img src="https://img.shields.io/jetbrains/plugin/v/10080-rainbow-brackets.svg?style=flat-square&label=IntelliJ-based%20IDE"></a>
 <a href="https://plugins.jetbrains.com/plugin/23759-rainbow-brackets-for-fleet"><img src="https://img.shields.io/jetbrains/plugin/v/23759?style=flat-square&label=Fleet"></a>
-
 </p>
 
 <br>
@@ -20,7 +19,7 @@
 # Table of contents
 
 - [Change log](https://github.com/izhangzhihao/intellij-rainbow-brackets/blob/2022.3/CHANGELOG.md#change-log)
-- [Core Features](#core-features)
+- [Features Matrix](#features-matrix)
 - [Compatibility](#compatibility)
 - [Supported languages](#supported-languages)
 - [Install](#install)
@@ -29,22 +28,169 @@
 - [Fleet Support](https://github.com/izhangzhihao/intellij-rainbow-brackets/blob/2022.3/Fleet.md)
 - [Rainbow Brackets Lite](#rainbow-brackets-lite)
 
-## Core features
+## Features Matrix
 
-<li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#java">Rainbowify various types brackets(Round,Squiggly,Square,Angle)</a></li>
-        <li><a href="https://www.youtube.com/watch?v=8WRH59PQ5Dk">Rainbowify variables for more languages & config colors using color generator </a></li>
-        <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#indent-highlighting">Rainbowify indent guidelines</a></li>
-        <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#scope-highlighting">Scope highlighting</a></li>
-        <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#htmlxml">Rainbowify tag name for XML/HTML</a></li>
-        <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#yaml">Rainbowify property name for YAML/JSON</a></li>
-        <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#customize-colors">Customize colors</a></li>
-        <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#use-the-color-generator">Color generator</a></li>
-        <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#javascript--typescript">JSX support</a></li>
-        <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#python">Rainbowify Python keywords & indent guidelines</a></li>
-        <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/discussions/2643">Scope highlighting for Python</a></li>
-        <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/discussions/2644">Current Block Highlighting</a></li>
-        <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#disable-rainbow-brackets-for-specific-languages">Block list support</a></li>
-        <br/>
+
+<table border="1" cellpadding="5" cellspacing="0" >
+    <thead>
+      <tr>
+        <th>Language</th>
+        <th>Rainbowify Brackets</th>
+        <th>Indent Guidelines Highlighting</br>(<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#indent-highlighting">Free</a> + <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/380#issuecomment-1296938427">Premium options)</a></th>  
+        <th>Scope Highlighting</br>(<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#scope-highlighting">Free</a> + <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/discussions/2644">Premium options)</a></th>  
+        <th><a href="https://www.youtube.com/watch?v=8WRH59PQ5Dk">Rainbowify Variables</a></th>
+        <th>Language-Specific Features</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Java</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#java">✅</a></td>
+        <td>✅</td>
+        <td>✅</td>
+        <td>✅</td>
+        <td></td>
+      </tr>  
+      <tr>  
+        <td>Scala</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#scala">✅</a></td>
+        <td>✅ <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2808">✨Premium for braceless style</a></td>
+        <td>✅</td>
+        <td>✅</td>
+        <td></td>
+      </tr>  
+      <tr>  
+        <td>Kotlin</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#kotlin">✅</a></td>
+        <td>✅</td>
+        <td>✅</td>
+        <td>✅</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#kotlin-function-literal-braces-and-arrow">Function literal braces and arrow highlighting</a></td>
+      </tr>  
+      <tr>  
+        <td>Python</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#python">✅</a></td>
+        <td>✨ <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#python">Premium</a></td>
+        <td>✨ <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/discussions/2643">Premium</a></td>
+        <td>✅</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#python">Keyword highlighting</a></td>
+      </tr>  
+      <tr>  
+        <td>JavaScript/TypeScript</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#javascript--typescript">✅</a></td>
+        <td>✅</td>
+        <td>✅</td>
+        <td>✅</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#javascript--typescript">JSX support</a></td>
+      </tr>  
+      <tr>  
+        <td>HTML/XML</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#htmlxml">✅</a></td>
+        <td>✅</td>
+        <td>✨ <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2712">Premium</a></td>
+        <td>✅ <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#htmlxml">Tag name highlighting</a></td>
+        <td></td>
+      </tr>
+      <tr>  
+        <td>Vue.js</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#htmlxml">✅</a></td>
+        <td>✅</td>
+        <td>✨ <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2712">Premium</a></td>
+        <td>-</td>
+        <td></td>
+      </tr>
+      <tr>  
+        <td>C#</td>
+        <td>✨ <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#c">Premium</a></td>
+        <td>✅</td>
+        <td>✨ Premium</td>
+        <td>✨ <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2570">Premium</a></td>
+        <td>Support .shader .cginc .hlsl .cshtml etc.</td>
+      </tr>  
+      <tr>  
+        <td>F#</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/186">✨</a> <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/186">Premium</a></td>
+        <td>✨ Premium</td>
+        <td>-</td>
+        <td>✨ <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/186">Premium</a></td>
+        <td></td>
+      </tr>  
+      <tr>  
+        <td>C++ (CLion Classic)</td>
+        <td>✅</td>
+        <td>✅</td>
+        <td>✅</td>
+        <td>✅</td>
+        <td></td>
+      </tr>
+      <tr>  
+        <td>C++ (CLion Nova)</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/424#issuecomment-1377176193">✨</a> <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/424#issuecomment-1377176193">Premium in Rider</a></td>
+        <td>✨<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2762">Premium</a></td>
+        <td>✨<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2846">Premium</a></td>
+        <td>✨<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2846">Premium</a></td>
+        <td></td>
+      </tr>  
+      <tr>  
+        <td>YAML</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#yaml">✅</a></td>
+        <td>✨ <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#yaml">Premium</a></td>
+        <td>✅</td>
+        <td>✅ <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#yaml">Tag name highlighting</a></td>
+        <td></td>
+      </tr>
+      <tr> 
+        <td>Jinja2</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2677">✨</a> <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2677">Premium</a></td>
+        <td>✨ Premium</td>
+        <td>-</td>
+        <td>-</td>
+        <td></td>
+      </tr>
+      <tr>  
+        <td>Pug/Jade</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#pugjade">✅</a></td>
+        <td>✨ <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#pugjade">Premium</a></td>
+        <td>-</td>
+        <td>-</td>
+        <td></td>
+      </tr>  
+      <tr>  
+        <td>Dart</td>
+        <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#dart">✅</a></td>
+        <td>✅</td>
+        <td>✅</td>
+        <td>✨ <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2741">Premium</a></td>
+        <td></td>
+      </tr>  
+      <tr>
+        <td>Rust</td>
+        <td>✅</td>
+        <td>✅</td>
+        <td>✅</td>
+        <td>✅</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Go</td>
+        <td>✅</td>
+        <td>✅</td>
+        <td>✅</td>
+        <td>✅</td>
+        <td></td>
+      </tr>
+    </tbody>  
+</table>
+
+Other Premium features:
+
+<ul dir="auto">
+    <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#use-the-color-generator">Color generator advanced options</a></li>
+    <li><a href="https://user-images.githubusercontent.com/12044174/202852094-2da6945b-598e-4def-ab0c-331abdd6d3f8.png">Color generator for rainbow variables</a></li>
+    <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2526">Show and save generated colors</a></li>
+    <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#customize-colors">Config up to 10 colors in config panel</a></li>
+</ul>
+
 
 ## Compatibility
 
@@ -134,22 +280,21 @@ options:
 
 <img width="800" alt="image" src="https://github.com/izhangzhihao/intellij-rainbow-brackets/assets/12044174/08b2a707-176f-437d-852c-1052d5652d7f">
 
-* Focus mode
+* Focus mode(premium)
 
 <img width="800" alt="image" src="https://github.com/izhangzhihao/intellij-rainbow-brackets/assets/12044174/68f829c4-7c86-4b6b-b7f6-b68911c37097">
-
 
 * Only selected indent guide(free)
 
 highlighting indent guideline only when you select this indent line
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/12044174/229687079-6b66e842-7d60-426e-9741-9685f8d078aa.png">
 
-* Only current indent guide
+* Only current indent guide(premium)
 
 highlighting indent guide lines for current lines
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/12044174/198995710-a7956ae3-b008-41f0-a391-caf5a39cd8dd.png">
 
-* All indent guide related
+* All indent guide related(premium)
 
 highlighting **all** indent guide lines for current lines
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/12044174/198984655-aedcec69-58c3-465f-b06a-279fd35068bd.png">
@@ -174,8 +319,6 @@ NOTE: <kbd>Button3</kbd> means "Secondary Click (click or tap with two fingers)"
 <img width="1000" alt="rh" src="https://user-images.githubusercontent.com/12044174/218252282-305ece2c-e78a-453a-8558-e500d8d35c7d.png">
 
 ![](https://user-images.githubusercontent.com/10737066/40235004-642dfe54-5adb-11e8-9fd7-648b92fab8f5.gif)
-
-### looking forward to your screenshots(PR welcome!)
 
 ## Customize colors
 
