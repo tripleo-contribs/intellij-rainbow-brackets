@@ -21,7 +21,6 @@
 - [Change log](https://github.com/izhangzhihao/intellij-rainbow-brackets/blob/2022.3/CHANGELOG.md#change-log)
 - [Features Matrix](#features-matrix)
 - [Compatibility](#compatibility)
-- [Supported languages](#supported-languages)
 - [Install](#install)
 - [Screenshots](#screenshots)
 - [Config file path](#config-file-path)
@@ -195,12 +194,6 @@ Other Premium features:
 ## Compatibility
 
 IntelliJ IDEA(Ultimate/Community/Educational), PhpStorm, WebStorm, PyCharm(Professional/Community/Educational), RubyMine, AppCode, CLion, CLion(Nova), Gogland, DataGrip, Rider, MPS, Android Studio, HUAWEI DevEco Studio, DataSpell, Code With Me(Host), RustRover, Aqua, Fleet, WriterSide
-
-## Supported languages
-
-Java, Scala, Clojure, Kotlin, Python, Haskell, Agda, Rust, JavaScript, TypeScript, Erlang, Go, Groovy, Ruby, Elixir, Objective-C, PHP, HTML, XML, SQL, Apex language, C#, F#, Dart, Pug/Jade, Bash, Vue.js, C# Razor Pages, GLSL(the OpenGL Shading Language), Go Template, C++, C, Solidity, Jinja2, Clang, CPP, C, MDX, FreeMarker...
-
-**NOTE: Please note that some features require the paid version for full support.**
 
 ## Install
 

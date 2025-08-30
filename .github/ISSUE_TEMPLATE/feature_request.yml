@@ -51,6 +51,6 @@ body:
     id: env
     attributes:
       label: Your Environment
-      description: Please Copy from your IDE's *About* page
+      description: Please Copy from Settings -> Rainbow Brackets -> Copy Configuration and Info
     validations:
       required: true
