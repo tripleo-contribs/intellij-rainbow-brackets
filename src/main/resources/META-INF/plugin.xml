@@ -60,13 +60,14 @@
 
     <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
          on how to target different products -->
+    <incompatible-with>izhangzhihao.rainbow.brackets</incompatible-with>
     <depends>com.intellij.modules.lang</depends>
+    <depends>com.intellij.modules.xml</depends>
     <depends optional="true" config-file="kotlin-brackets.xml">org.jetbrains.kotlin</depends>
     <depends optional="true" config-file="JSX.xml">JavaScript</depends>
     <depends optional="true" config-file="dart-brackets.xml">Dart</depends>
     <depends optional="true" config-file="groovy-brackets.xml">org.intellij.groovy</depends>
     <depends optional="true" config-file="intellij-haskell-annotator.xml">intellij.haskell</depends>
-    <depends optional="true" config-file="oc-brackets.xml">com.intellij.modules.clion</depends>
     <depends optional="true" config-file="sh-brackets.xml">com.jetbrains.sh</depends>
     <depends optional="true" config-file="php-brackets.xml">com.jetbrains.php</depends>
     <depends optional="true" config-file="go-template-brackets.xml">org.jetbrains.plugins.go-template</depends>

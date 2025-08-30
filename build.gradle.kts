@@ -11,7 +11,7 @@ val pluginVerifierIdeVersions: String by project
 val publishChannels: String by project
 
 plugins {
-    id("org.jetbrains.intellij") version "1.9.0"
+    id("org.jetbrains.intellij.platform") version "2.7.2"
     id("com.adarshr.test-logger") version "3.2.0"
     id("org.jetbrains.kotlin.jvm") version "1.8.21"
     id("idea")
@@ -30,8 +30,6 @@ intellij {
     pluginName.set("intellij-rainbow-brackets-lite")
 
     version.set(ideaVersion)
-    //localPath = '/Users/izhangzhihao/Library/Application Support/JetBrains/Toolbox/apps/IDEA-U/ch-0/201.6668.121/IntelliJ IDEA 2020.1 EAP.app/Contents'
-    //localPath = '/Users/izhangzhihao/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/201.6668.126/CLion.app/Contents'
     updateSinceUntilBuild.set(false)
 
     plugins.set(

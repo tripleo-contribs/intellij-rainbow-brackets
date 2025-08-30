@@ -1,6 +1,0 @@
-<idea-plugin>
-    <extensions defaultExtensionNs="izhangzhihao.rainbow.brackets.lite">
-        <bracePairProvider language="ObjectiveC"
-                             implementationClass="com.github.izhangzhihao.rainbow.brackets.provider.OCBracePairProvider"/>
-    </extensions>
-</idea-plugin>
