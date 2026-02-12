@@ -16,9 +16,6 @@
 <a href="https://www.buymeacoffee.com/rainbowbrackets" target="_blank" title="BuyMeACoffee">
     <img src="https://iili.io/JoQ1MeS.md.png" style="height: 35px;"/>
 </a>
-<a target="_blank" title="Join our Discord channel" href="https://discord.gg/upKwA9S3zH">
-    <img src="https://dcbadge.limes.pink/api/server/upKwA9S3zH" style="height: 35px;"/>
-</a>
 </p>
 
 <br>
