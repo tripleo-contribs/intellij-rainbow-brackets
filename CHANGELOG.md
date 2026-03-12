@@ -168,7 +168,14 @@ Please check the latest screenshots [here](https://github.com/izhangzhihao/intel
 
 ## Change log
 
-<p >2025.3.7</p>
+<p>2025.3.8</p>
+                <ul dir="auto">
+                    <li>[premium] Feat:<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2881">More scope highlighting for python</a></li>
+                    <li>Feat: <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2883">Support config supress scope highlighting when debugging (false by default).</a></li>
+                </ul>
+                <br/>
+
+<p>2025.3.7</p>
                 <ul dir="auto">
                     <li>[premium] Erlang: <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2863">Add support for the Erlang language</a></li>
                     <li>Fix: <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2866">Error when starting IDEA</a></li>
