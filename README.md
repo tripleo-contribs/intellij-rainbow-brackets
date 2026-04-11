@@ -119,20 +119,20 @@
         <td></td>
       </tr>  
       <tr>  
-        <td>C++ (CLion Classic)</td>
+        <td>C++ (CLion Classic/<br>Android Studio)</td>
         <td>✅</td>
         <td>✅</td>
         <td>✅</td>
         <td>✅</td>
-        <td></td>
+        <td>✨<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2614#issuecomment-4186748964">Premium: #if/#ifdef macros</a></td>
       </tr>
       <tr>  
-        <td>C++ (CLion Nova/<br>IntelliJ 2025.3+)</td>
+        <td>C++ (CLion Nova/<br>Rider/<br>IntelliJ 2025.3+)</td>
         <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/424#issuecomment-1377176193">✨</a> <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/424#issuecomment-1377176193">Premium in Rider</a></td>
         <td>✨<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2762">Premium</a></td>
         <td>✨<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2846">Premium</a></td>
         <td>✨<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2846">Premium</a></td>
-        <td></td>
+        <td>✨<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2614#issuecomment-4186748964">Premium: #if/#ifdef macros</a></td>
       </tr>  
       <tr>  
         <td>YAML</td>
@@ -194,7 +194,7 @@ Other Premium features:
     <li><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets#customize-colors">Config up to 10 colors in config panel</a></li>
 </ul>
 
-<small>Other supported languages: Haskell, Agda, Erlang, Groovy, Ruby, Elixir, Objective-C, PHP, SQL, Apex language, Bash, C# Razor Pages, GLSL (the OpenGL Shading Language), Go Template, Solidity, MDX, FreeMarker, GDScript, Svelte and more.</small>
+<small>Other supported languages: Haskell, Agda, Erlang, Groovy, Ruby, Elixir, Objective-C, PHP, SQL, Apex language, Bash, C# Razor Pages, GLSL (the OpenGL Shading Language), Go Template, Solidity, MDX, FreeMarker, GDScript, Svelte, plantuml/PUML and more.</small>
 
 ## Compatibility
 

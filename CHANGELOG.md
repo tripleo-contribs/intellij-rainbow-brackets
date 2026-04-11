@@ -85,20 +85,20 @@
         <td></td>
       </tr>  
       <tr>  
-        <td>C++ (CLion Classic)</td>
+        <td>C++ (CLion Classic/<br>Android Studio)</td>
         <td>✅</td>
         <td>✅</td>
         <td>✅</td>
         <td>✅</td>
-        <td></td>
+        <td>✨<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2614#issuecomment-4186748964">Premium: #if/#ifdef macros</a></td>
       </tr>
       <tr>  
-        <td>C++ (CLion Nova/<br>IntelliJ 2025.3+)</td>
+        <td>C++ (CLion Nova/<br>Rider/<br>IntelliJ 2025.3+)</td>
         <td><a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/424#issuecomment-1377176193">✨</a> <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/424#issuecomment-1377176193">Premium in Rider</a></td>
         <td>✨<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2762">Premium</a></td>
         <td>✨<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2846">Premium</a></td>
         <td>✨<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2846">Premium</a></td>
-        <td></td>
+        <td>✨<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2614#issuecomment-4186748964">Premium: #if/#ifdef macros</a></td>
       </tr>  
       <tr>  
         <td>YAML</td>
@@ -168,10 +168,19 @@ Please check the latest screenshots [here](https://github.com/izhangzhihao/intel
 
 ## Change log
 
+<p>2025.3.9</p>
+                <ul dir="auto">
+                    <li>Feat: <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2884">Support config suppress scope highlighting when diffing (false by default).</a></li>
+                    <li>[premium] Feat: <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2614">Support c/c++ #if/#ifdef macros(Include CLion Nova/CLion Classic/IntelliJ with CLion plugin/Rider/Android Studio). To turn on: Preferences -> Rainbow Brackets -> Language Specific -> Rainbowify C++ #if/#else Macro keywords</a></li>
+                    <li>[premium] Feat: <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2593">Add support for plantuml file (*.puml)</a></li>
+                    <li>Fix: The cancel button does not work on config popup windows</li>
+                </ul>
+                <br/>
+
 <p>2025.3.8</p>
                 <ul dir="auto">
                     <li>[premium] Feat:<a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2881">More scope highlighting for python</a></li>
-                    <li>Feat: <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2883">Support config supress scope highlighting when debugging (false by default).</a></li>
+                    <li>Feat: <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2883">Support config suppress scope highlighting when debugging (false by default).</a></li>
                 </ul>
                 <br/>
 
