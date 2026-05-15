@@ -168,6 +168,16 @@ Please check the latest screenshots [here](https://github.com/izhangzhihao/intel
 
 ## Change log
 
+<p>2025.3.10</p>
+        <ul>
+            <li>Performance improvements</li>
+            <li>Setting page and translation improvements</li>
+            <li>[premium] Feat: <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2868">Add Rainbow Variables support for ArkTS(DevEco Studio only).</a></li>
+            <li>Compatible with DevEco Studio 6.1.1 Beta1</li>
+            <li>Fix: <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2885">License status and other text with light/low contrast colours unreadable on light theme</a></li>
+        </ul>
+        <br/>
+
 <p>2025.3.9</p>
                 <ul dir="auto">
                     <li>Feat: <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2884">Support config suppress scope highlighting when diffing (false by default).</a></li>
