@@ -168,6 +168,13 @@ Please check the latest screenshots [here](https://github.com/izhangzhihao/intel
 
 ## Change log
 
+<p>2025.3.11</p>
+        <ul>
+            <li>[premium] Feat: Support Haskell via the Haskell LSP plugin</li>
+            <li>Fix: <a href="https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/2887">Vue component tags overriding by the IDE</a></li>
+        </ul>
+        <br/>
+
 <p>2025.3.10</p>
         <ul>
             <li>Performance improvements</li>
